@@ -54,7 +54,7 @@
 有些变化的三张不可以带一对。如果三张不可以带一对，那么多牌无法取胜。
 
 # 完整解
-[solution-in-all.txt](solution-in-all.txt)
+[solutions-in-all.txt](solutions-in-all.txt)
 包含所有应对之策。就是在任何情况，A出任何牌或不出，都能找到其中一行对应。
 （注意玩家B的牌被改变成两个红桃A，两个红桃J，因为B的牌花色不影响出牌变化）。 </br>
 比如Line 1: </br>
